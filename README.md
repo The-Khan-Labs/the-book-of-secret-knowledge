@@ -406,6 +406,7 @@ Only main chapters:
 
 <p>
 &nbsp;&nbsp; <a href="https://www.torproject.org/"><b>TOR Browser</b></a> - protect your privacy and defend yourself against network surveillance and traffic analysis.<br>
+&nbsp;&nbsp; <a href="https://github.com/imputnet/helium"><b>Helium</b></a> - privacy-focused, open-source web browser based on ungoogled Chromium.<br>
 </p>
 
 ##### :black_small_square: Password Managers
